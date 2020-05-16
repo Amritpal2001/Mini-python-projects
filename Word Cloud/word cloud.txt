@@ -1,0 +1,18 @@
+Algorithm
+In simple terms, an algorithm is a strict and logical sequence of explicit, step-by-step instructions to solve any problem. Algorithms are elementary building blocks that make up machine learning and artificial intelligence. Very often algorithm operates as a sequence of simple if → then statements or a sequence of the more complex nerdy construct of numbers and commands. The goal of an algorithm is to teach AI, neural network, or other machines on how to figure things out on their own.
+Basic algorithms in machine learning: Clustering, Classification, Regression, and Recommendation.
+Analytical Validation
+The measure of the ability of a task to accurately and reliably generate the intended technical output, from the input data. Validation techniques in machine learning are used to get the error rate of the ML model. Most common validation techniques: Resubstitution, K-fold cross-validation, Random subsampling, Bootstrapping.
+Artificial general intelligence (AGI)
+General AI, artificial general intelligence (AGI), strong AI and superintelligence all basically refer to the same thing — a type of AI that is equal to or greater than human intelligence. We call it general because it will apply to all problems. The opposite of strong AI is weak AI. The opposite of general AI is narrow AI.
+The truth is, this is the kind of AI we’re used to seeing in blockbuster movies, we have not to reach this level of intelligence in real life. We call it strong because we imagine it will be strong than us, but it is nothing more than just an idea we don’t know how to realize yet.
+Artificial Intelligence (AI)
+“AI is the science and engineering of making intelligent machines, especially intelligent computer programs.” — Alan Turing
+AI is a subset of computer science that aims to build machines capable of doing human-like tasks: decision-making, object classification and detection, speech recognition and translation.
+Artificial intelligence and Machine learning are related. However, ML is a subset of AI and not vice versa. Both AI and ML are a set of algorithms, but ML can be fed only with structured data and AI can handle both structured and unstructured pieces of information in order to complete a task without being programmed how to do so.
+Artificial narrow intelligence (ANI)
+Artificial narrow intelligence (ANI), also known as weak AI, is a general purpose AI that refers to a computer’s ability to perform a single task extremely well, such as crawling a webpage or playing chess. Many currently existing AI-powered systems are likely operating as a weak AI focused on a narrowly defined specific problem (it used in building virtual assistants like Siri).
+Artificial neural network (ANN)
+A model used in AI that is inspired by, but not necessarily identical to, the biological neural networks that constitute animal brains. It consists of neural layers that are used for machine learning. Such systems “learn” to perform tasks by considering examples, generally without being programmed with any task-specific rules.
+Augmented Intelligence, also known as Intelligence Augmentation (IA)
+It is a complement — not a replacement — to human intelligence. It’s about helping humans become faster and smarter at the tasks they’re performing.
