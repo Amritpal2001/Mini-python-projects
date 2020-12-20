@@ -27,4 +27,4 @@ pas.extend(list(s3))
 pas.extend(list(s4))
 
 print("Password is : ",end="")
-print("".join(random.sample(pas,pass_len)))
+print("".join(random.sample(pas,pass_len)));
